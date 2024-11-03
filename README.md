@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on projects in game development<br>I'm currently learning web dev, game dev, cyber sec<br>
+| Game Dev | Web Dev | Cyber Sec | Freelance |<br>
 
 
 ## 🌐 Socials:
