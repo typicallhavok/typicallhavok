@@ -77,13 +77,10 @@
 
 ### 🔗 PIT STOP
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/amoghem">
   <img src="https://img.shields.io/badge/LinkedIn-FF8000?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1a1a1a" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/your-twitter">
-  <img src="https://img.shields.io/badge/Twitter-FF8000?style=for-the-badge&logo=twitter&logoColor=black&labelColor=1a1a1a" alt="Twitter"/>
-</a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:amogh@havoc.codes">
   <img src="https://img.shields.io/badge/Email-FF8000?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a1a1a" alt="Email"/>
 </a>
 
